@@ -1,5 +1,5 @@
 oh-my-zsh-custom
-================
+===============
 
 This repository contains specific oh-my-zsh customizations.
 
@@ -34,3 +34,5 @@ see what is available.
         chsh -s /bin/zsh
 
 8. Start / restart zsh (open a new terminal is easy enough…)
+
+Pro Tip: on OSX use the "Pro" Profile and check the box "Use bright colors for bold test" option

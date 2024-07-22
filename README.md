@@ -12,7 +12,7 @@ Getting Started
 
 2. Clone the oh-my-zsh repository
 
-        git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+        git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
         
 3. Clone the oh-my-zsh-custom repo
 

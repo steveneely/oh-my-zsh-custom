@@ -16,7 +16,7 @@ Getting Started
         
 3. Clone the oh-my-zsh-custom repo
 
-        git clone https://github.com/steveneely/oh-my-zsh-custom.git ~/.oh-my-zsh-custom
+        git clone https://github.com/steveneely/oh-my-zsh-custom.git ~/.oh-my-zsh/custom
 
 4. OPTIONAL Backup your existing ~/.zshrc file
 
@@ -24,9 +24,9 @@ Getting Started
 
 5. Create a new zsh config by copying the zsh template.
 
-        cp ~/.oh-my-zsh-custom/templates/zshrc.zsh-template ~/.zshrc
+        cp ~/.oh-my-zsh/custom/templates/zshrc.zsh-template ~/.zshrc
 
-6. Edit the .zshrc and add the plugins you care about.  See the ~/.oh-my-zsh/plugins and ~/.oh-my-zsh-custom/plugins to 
+6. Edit the .zshrc and add the plugins you care about.  See the ~/.oh-my-zsh/plugins and ~/.oh-my-zsh/custom/plugins to
 see what is available.
         
 7. If you are not already using zsh as your shell
